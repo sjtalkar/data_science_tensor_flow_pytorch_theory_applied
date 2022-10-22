@@ -1,4 +1,4 @@
-# DataScienceReadingInsights
+# Data Science Reading Insights
 [Hands On Machine Learning Code on Github](https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb)
 
 Why Scale features
