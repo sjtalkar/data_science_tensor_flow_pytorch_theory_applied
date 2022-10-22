@@ -1,5 +1,5 @@
 # DataScienceReadingInsights
-[Hands On Machine Learning Code on Github] (https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb)
+[Hands On Machine Learning Code on Github](https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb)
 
 Why Scale features
 While the cost function has the shape of a bowl, it can be an elongated bowl if the features have very different scales. Figure 4-7 shows gradient descent on a training set where features 1 and 2 have the same scale (on the left), and on a training set where feature 1 has much smaller values than feature 2 (on the right)
